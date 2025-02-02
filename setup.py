@@ -11,7 +11,7 @@ with open("requirements.txt", encoding="utf-8") as fh:
     ]
 
 setup(
-    name="profiling",
+    name="uda",
     version="0.1.0",
     author="Your Name",
     author_email="your.email@example.com",
