@@ -35,8 +35,8 @@ pathspec==0.12.1
 pillow==11.1.0
 platformdirs==4.3.6
 pluggy==1.5.0
-# Editable Git install with no remote (profiling==0.1.0)
--e /Users/msgfrom96/UDA Project/UDA
+# Editable Git install with no remote (uda==0.1.0)
+-e git+https://github.com/msgfrom96/UrbanDishAnalyzer@cf5a62089d3c09c881a934d21d1d8f41ac6c2ac9#egg=uda
 pycodestyle==2.12.1
 pyflakes==3.2.0
 pyogrio==0.10.0
