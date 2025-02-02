@@ -20,7 +20,7 @@ A Python package designed for analyzing restaurant reviews and generating taste 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/UDA.git
+git clone https://github.com/msgfrom96/UDA.git
 cd UDA
 ```
 
